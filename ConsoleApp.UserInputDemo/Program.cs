@@ -1,7 +1,7 @@
 ﻿// declare variables
 
-string firstName = string.Empty;
-string lastName = string.Empty;
+string? firstName = string.Empty;
+string? lastName = string.Empty;
 int age = 0;
 int retirementAge = 65;
 decimal salary = 0;
@@ -15,7 +15,7 @@ firstName = Console.ReadLine();
 Console.Write("Please enter your last name: ");
 lastName = Console.ReadLine();
 
-Console.Write("Please enter your age: ");
+Console.Write("Please enter your age: "); 
 age = Convert.ToInt32(Console.ReadLine());
 
 
