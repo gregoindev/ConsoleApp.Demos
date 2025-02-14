@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ExceptionHandlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.StringManipulation", "ConsoleApp.StringManipulation\ConsoleApp.StringManipulation.csproj", "{E09CC98A-C1A8-4BAF-AD6E-BE4EB803390F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Methods", "ConsoleApp.Methods\ConsoleApp.Methods.csproj", "{EB35E689-9D56-4D12-8DE3-C0ACFB1B0E12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{E09CC98A-C1A8-4BAF-AD6E-BE4EB803390F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E09CC98A-C1A8-4BAF-AD6E-BE4EB803390F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E09CC98A-C1A8-4BAF-AD6E-BE4EB803390F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB35E689-9D56-4D12-8DE3-C0ACFB1B0E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB35E689-9D56-4D12-8DE3-C0ACFB1B0E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB35E689-9D56-4D12-8DE3-C0ACFB1B0E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB35E689-9D56-4D12-8DE3-C0ACFB1B0E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
